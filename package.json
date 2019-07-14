@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "terry-chen-website",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "My new portfolio built by gatsby.js",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Terry Chen <yenhsuan.terry@gmail.com>",
   "dependencies": {
     "gatsby": "^2.13.20",
     "gatsby-image": "^2.2.6",
@@ -21,9 +21,7 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": [],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -35,9 +33,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": ""
   }
 }
